@@ -185,7 +185,7 @@ provider = "cloudflare"
     # Optional
     # Default: "traefik"
     #
-    entryPoint = "traefik-external"
+    entryPoint = "traefik"
 
     # Buckets for latency metrics
     #
